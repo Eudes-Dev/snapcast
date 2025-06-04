@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Eudes-Dev-s-workspace-q23je3.eu-central-1.xata.sh/db/EudesDev_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
